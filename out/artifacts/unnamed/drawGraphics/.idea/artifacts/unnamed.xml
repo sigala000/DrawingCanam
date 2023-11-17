@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="module-output" name="Canam" />
+      <element id="archive" name="Drawing.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/out/production/Canam/drawGraphics/Canam.iml" output-file-name="MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
